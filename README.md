@@ -3,3 +3,4 @@ Projeto de biblioteca em sql
 
 ## Integrantes
 - William dos Santos Rodrigues
+- Guilherme Alves Fernandes
